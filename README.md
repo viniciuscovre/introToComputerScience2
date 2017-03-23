@@ -1,4 +1,4 @@
-# introductionToComputerScience2
+# Introduction To Computer Science II
 A course in Introduction to Computer Science II given by Marcus Vinicius Maltempi at Unesp, Rio Claro.
 
 Computer Science bachelor's degree, 2013.
